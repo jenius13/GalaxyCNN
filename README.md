@@ -13,3 +13,5 @@ CNN을 기본구성을 구성해본적 있지만 경험이 부족하여 연습�
 7. Accuracy
 8. Another Model
 9. Conclusion
+
+연습문제의 저작권은 다핏에게 있습니다
